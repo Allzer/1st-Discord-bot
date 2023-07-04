@@ -28,4 +28,4 @@ async def _xd(interaction: discord.Interaction):
     await interaction.response.send_message("Я первый бот Дениса. Так что ждите чего-то мемного")
 
 
-bot.run('MTEyNTUxNzEyOTgyMzgxMzgxNA.Gj4TCj.4Q14eGunATguPF7cHCoteUYMoz8YlS-WAcaLik')
+bot.run('токен')
